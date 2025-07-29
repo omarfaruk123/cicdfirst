@@ -12,7 +12,7 @@ on:
 
 jobs:
   Apply CICD Process:
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Need checkout
         uses: action/checkout@v2
