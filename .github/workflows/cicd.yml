@@ -11,7 +11,7 @@ on:
       - dev
 
 jobs:
-  Apply CICD Process:
+  Apply_Process:
     runs-on: ubuntu-latest
     steps:
       - name: Need checkout
